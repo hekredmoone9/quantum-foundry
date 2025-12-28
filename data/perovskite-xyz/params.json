@@ -1,0 +1,13 @@
+{
+  "material": "Perovskite-XYZ",
+  "simulation_type": "DFT",
+  "functional": "PBE",
+  "temperature_k": 300,
+  "pressure_atm": 1,
+  "kpoints": [12, 12, 1],
+  "energy_cutoff_ry": 80,
+  "convergence_threshold": 1e-6,
+  "pseudopotential": "SG15",
+  "spin_polarized": false,
+  "vdw_correction": "D3"
+}
