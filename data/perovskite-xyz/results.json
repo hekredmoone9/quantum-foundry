@@ -1,0 +1,12 @@
+{
+  "material": "Perovskite-XYZ",
+  "total_energy_ev": -12345.67,
+  "bandgap_ev": 1.23,
+  "direct_gap": true,
+  "absorption_peak_nm": 450,
+  "absorption_peak_eV": 2.76,
+  "dielectric_constant": 5.4,
+  "effective_mass_electron": 0.15,
+  "effective_mass_hole": 0.25,
+  "simulation_date": "2025-12-16"
+}
